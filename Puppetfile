@@ -86,3 +86,7 @@ mod "odaijbossmaster",
 mod "base",
   :git => "git://github.com/open-dai/puppet-opendai-base.git",
   :ref => '0.4.0'
+
+mod "jbossas",
+  :git => "git://github.com/open-dai/puppet-opendai-jbossas.git",
+  :ref => '0.4.0'
