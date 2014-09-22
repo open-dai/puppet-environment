@@ -76,7 +76,8 @@ mod "odaisoamysql",
   :ref => '0.4.0'
 
 mod "opendai_java",
-  :git => "git://github.com/open-dai/puppet-opendai_java.git"
+  :git => "git://github.com/open-dai/puppet-opendai_java.git",
+  :ref => '0.4.0'
 
 mod "odaijbossmaster",
   :git => "git://github.com/open-dai/puppet-opendai-odaijbossmaster.git",
