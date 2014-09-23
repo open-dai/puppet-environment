@@ -10,6 +10,7 @@ mod "puppetlabs/nginx"
 mod "puppetlabs/nodejs"
 mod "zack/r10k"
 mod "ripienaar/concat"
+mod "richardc/datacat"
 mod "haraldsk/nfs"
 
 
