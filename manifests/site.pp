@@ -1,5 +1,5 @@
 filebucket { "main":
-  server => $::fqdn,
+  server => "puppet.$::domain",
   path => false,
 }
 
