@@ -37,61 +37,61 @@ mod "wso2bps",
 
 mod "zabbix",
   :git => "git://github.com/gioppoluca/puppet-zabbix.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 # Modules from the Open-DAI project
 mod "odaiweb",
   :git => "git://github.com/open-dai/puppet-opendai-odaiweb.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "odaiapiman",
   :git => "git://github.com/open-dai/puppet-opendai-odaiapiman.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "odaibam",
   :git => "git://github.com/open-dai/puppet-opendai-odaibam.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "odaigreg",
   :git => "git://github.com/open-dai/puppet-opendai-odaigreg.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "odaibps",
   :git => "git://github.com/open-dai/puppet-opendai-odaibps.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "odainfs",
   :git => "git://github.com/open-dai/puppet-opendai-odainfs.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "odaiproxy",
   :git => "git://github.com/open-dai/puppet-opendai-odaiproxy.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "odaiesb",
   :git => "git://github.com/open-dai/puppet-opendai-odaiesb.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "odaisoamysql",
   :git => "git://github.com/open-dai/puppet-opendai-odaisoamysql.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "opendai_java",
   :git => "git://github.com/open-dai/puppet-opendai_java.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "odaijbossmaster",
   :git => "git://github.com/open-dai/puppet-opendai-odaijbossmaster.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "odaijbossmasterbb",
   :git => "git://github.com/open-dai/puppet-opendai-odaijbossmasterbb.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
-  mod "base",
+mod "base",
   :git => "git://github.com/open-dai/puppet-opendai-base.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "jbossas",
   :git => "git://github.com/open-dai/puppet-opendai-jbossas.git",
-  :ref => '0.4.0'
+  :ref => 'master'
