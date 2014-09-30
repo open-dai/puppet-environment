@@ -17,23 +17,23 @@ mod "haraldsk/nfs"
 # Modules from Github using various references
 mod "wso2am",
   :git => "git://github.com/gioppoluca/puppet-wso2am.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "wso2bam",
   :git => "git://github.com/gioppoluca/puppet-wso2bam.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "wso2greg",
   :git => "git://github.com/gioppoluca/puppet-wso2greg.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "wso2esb",
   :git => "git://github.com/gioppoluca/puppet-wso2esb.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "wso2bps",
   :git => "git://github.com/gioppoluca/puppet-wso2bps.git",
-  :ref => '0.4.0'
+  :ref => 'master'
 
 mod "zabbix",
   :git => "git://github.com/gioppoluca/puppet-zabbix.git",
